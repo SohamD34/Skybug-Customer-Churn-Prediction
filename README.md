@@ -1,6 +1,7 @@
 # Skybug-Customer-Churn-Prediction
+A predictive model churn prediction - detecting which customers are likely to leave a service or to cancel a subscription to a service.
 
-## Data Description
+## Contents
 | Section         |    Content                                              |
 |-----------------|---------------------------------------------------------|
 | README.md       |The top-level README for developers using this project   | 
@@ -8,7 +9,7 @@
 |predictive_model.py | Contains interactive testing                         |
 |preprocessing    |Steps used for preprocessing of input data               |
 | training        | Contains script for training                            |
-|viualisation     | Contains exploratory data & trend analyssi              |
+|visualisation    | Contains exploratory data & trend analysis              |
 |requirements.txt |List of all necessary tools and libraries used to run the project|
 
 
