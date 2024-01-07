@@ -25,7 +25,7 @@ Link - https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-predi
 ```
 >> cd <location>
 ```
-3. Run the training script.
+3. Run the model.
 ```
 >> python3
 >> run predictive_model.py
